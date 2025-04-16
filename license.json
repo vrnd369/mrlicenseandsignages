@@ -1,0 +1,182 @@
+{
+  "services": {
+    "food_license": {
+      "name": "Food License",
+      "imaget": "assets/images/resources/serv/1.webp",
+      "description": "Acquiring a food license is crucial for businesses that are involved in the food industry, ensuring compliance with the Food Safety and Standards Authority of India (FSSAI) regulations. Without this license, food-related businesses risk legal consequences. We assist businesses in obtaining the necessary licenses to ensure they adhere to the strict food safety norms required by the government, enabling them to operate with confidence and in line with legal mandates.",
+      "process": "Our food license service is designed to ensure that all necessary procedures are followed in obtaining the required license. From understanding the safety norms, gathering the necessary documents, submitting the application, and coordinating with authorities for inspection, we handle the entire process. Our team guarantees that your business meets all FSSAI compliance requirements, helping you avoid any operational interruptions or legal penalties.",
+      "key_steps": [
+        "Step 1: Gather Documentation - We assist in collecting essential documents such as proof of business address, identity, and food-related business details to ensure a smooth application process.",
+        "Step 2: Application Submission - Submit the food license application to the FSSAI or respective regulatory bodies along with the supporting documents, ensuring that your business meets the required legal criteria.",
+        "Step 3: Inspection Coordination - Coordinate with government authorities to schedule the inspection of your business premises and ensure that they meet the required standards of food safety.",
+        "Step 4: License Approval - Once the inspection is successful, we assist in obtaining the FSSAI food license so that your business can begin operations legally."
+      ],
+      "benefits": [
+        "Efficient license application process to avoid unnecessary delays.",
+        "Full support in complying with food safety regulations and standards.",
+        "Minimize the risk of penalties and operational shutdowns due to non-compliance."
+      ]
+    },
+    "labour_license": {
+      "name": "Labour License",
+      "imaget": "assets/images/resources/serv/2.webp",
+
+      "description": "Labor licenses are essential for businesses that employ workers in India, ensuring that businesses comply with the laws surrounding labor welfare, safety, and health. Obtaining a labor license is mandated by the Ministry of Labor and Employment to ensure that businesses adhere to employee protection standards. Our service provides seamless assistance to navigate this legal requirement, guaranteeing timely and accurate submission of your application and supporting documents.",
+      "process": "Our labor license service is comprehensive, ensuring that your business complies with all the relevant labor laws. We handle everything from the registration process, where we gather all necessary employee data, to submitting the application with the relevant authorities and following up on the approval. Our service also covers renewal of the license, ensuring that your business remains compliant with any changes in labor laws.",
+      "key_steps": [
+        "Step 1: Determine Eligibility - Assess the number of employees and the business activity type to ensure you meet the requirements for labor license registration.",
+        "Step 2: Complete Documentation - Prepare all necessary documents, including proof of address and identity, employee details, and business registration.",
+        "Step 3: Application Submission - Submit the application form and documents to the Ministry of Labor and Employment for review.",
+        "Step 4: Approval & Compliance - Once approved, we help you maintain the labor license, ensuring that any future renewals are done on time and without issues."
+      ],
+      "benefits": [
+        "Legal compliance with employee welfare and safety standards.",
+        "Avoiding penalties related to labor law violations.",
+        "Hassle-free registration and renewal process to keep your business running smoothly."
+      ]
+    },
+    "trade_license": {
+      "name": "Trade/GHMC Trade License",
+      "imaget": "assets/images/resources/serv/3.webp",
+
+      "description": "A trade license issued by local municipal authorities is a legal requirement for businesses involved in trade activities. The GHMC (Greater Hyderabad Municipal Corporation) Trade License ensures that a business is operating within legal boundaries and is compliant with local regulations. Our service ensures that businesses, especially those operating in specific municipalities, can acquire their trade license efficiently, with all necessary inspections and paperwork managed by us.",
+      "process": "We manage the trade license registration process for your business, ensuring compliance with local municipal regulations. We guide you through identifying the correct trade activity classification, collecting the necessary documents, and submitting your application for approval. Our service ensures that all inspections are completed, and all documentation is accurately filed, avoiding any delays or issues.",
+      "key_steps": [
+        "Step 1: Confirm Trade Activity - Ensure your business activity complies with the GHMC requirements and identify the appropriate trade classification for your business.",
+        "Step 2: Prepare Documentation - Gather necessary documents, including business address proof, partnership details, and identity verification.",
+        "Step 3: Application Submission - Complete the trade license application and submit it to the local municipal corporation.",
+        "Step 4: Inspection & Approval - Coordinate with the municipal authorities for site inspections, and once passed, receive your trade license."
+      ],
+      "benefits": [
+        "Legal recognition of your trade activity within local jurisdiction.",
+        "Ensures compliance with municipal and state regulations, avoiding penalties.",
+        "Quick processing time for trade license approval to minimize downtime."
+      ]
+    },
+    "gst_registration": {
+      "name": "GST Registration & GST Filings",
+      "imaget": "assets/images/resources/serv/4.webp",
+
+      "description": "GST registration is a fundamental requirement for businesses whose turnover exceeds the prescribed threshold limit. Our GST registration service ensures that your business is registered under Goods and Services Tax, enabling you to legally collect and pay GST on your products and services. We also provide support for timely GST filing to avoid penalties and ensure smooth tax compliance.",
+      "process": "We assist businesses in navigating the complexities of GST registration, from verifying eligibility and preparing documentation to completing the application and receiving your GSTIN. In addition, we manage your GST filings, ensuring that returns are filed on time, helping your business stay compliant and avoid penalties.",
+      "key_steps": [
+        "Step 1: Collect Business Data - Gather details regarding business turnover, types of products/services offered, and transaction history to determine eligibility for GST registration.",
+        "Step 2: Submit GST Registration Application - Complete the application process, providing all relevant business documentation, and submit it to the GST authorities.",
+        "Step 3: File GST Returns - Handle monthly or quarterly GST filings to ensure that your business remains compliant with all required tax obligations.",
+        "Step 4: Support and Consultation - Provide ongoing support and consultation to help your business navigate changes in GST regulations."
+      ],
+      "benefits": [
+        "Ensures full compliance with GST laws and avoids costly penalties.",
+        "Streamlined filing process for GST returns, minimizing administrative burden.",
+        "Expert consultation on tax-saving measures and deductions available under GST."
+      ]
+    },
+    "itr_filing": {
+      "name": "ITR Filing",
+      "imaget": "assets/images/resources/serv/5.webp",
+
+      "description": "Filing Income Tax Returns (ITR) is a critical part of staying compliant with the Indian tax laws. Timely and accurate filing ensures that your business avoids penalties and remains eligible for future financial benefits. Our ITR filing service helps businesses and individuals prepare and submit their tax returns without errors, ensuring compliance with the Income Tax Department.",
+      "process": "We handle all aspects of ITR filing, from assessing income, calculating tax liabilities, and preparing the required documents. Our team ensures that all deductions are claimed and exemptions are applied, optimizing your tax returns. We also ensure the timely submission of the return to avoid penalties and interest charges for late filing.",
+      "key_steps": [
+        "Step 1: Gather Financial Data - Collect all relevant financial documents such as income statements, balance sheets, receipts, and other records for accurate tax assessment.",
+        "Step 2: Calculate Tax Liabilities - We analyze the documents to determine any exemptions, deductions, and the tax liabilities based on the applicable tax brackets.",
+        "Step 3: File the ITR Form - We complete the ITR form and submit it electronically to the Income Tax Department on your behalf.",
+        "Step 4: Confirmation & Support - Receive confirmation of your filing and continued support for any future tax assessments or audits."
+      ],
+      "benefits": [
+        "Avoids penalties and interest for late filing or inaccurate returns.",
+        "Ensures full tax compliance by accurately filing ITR in accordance with tax laws.",
+        "Maximizes eligible deductions and exemptions for tax optimization."
+      ]
+    },
+    "trademark": {
+      "name": "Trademark Registration",
+      "imaget": "assets/images/resources/serv/6.webp",
+
+      "description": "A trademark is a valuable asset that helps businesses protect their brand identity. It provides legal protection to unique logos, brand names, and other distinguishing elements, ensuring that others cannot use them without permission. Our trademark registration service helps businesses secure their trademarks, protecting them from infringement and boosting brand value.",
+      "process": "We provide assistance in filing a trademark application, ensuring that your business logo, brand name, or slogan is properly protected. Our team conducts comprehensive trademark searches to avoid conflicts and ensures the application is filed with the correct authorities. We also help monitor the trademark to prevent unauthorized use by others.",
+      "key_steps": [
+        "Step 1: Trademark Search - Conduct a comprehensive search to ensure that your desired trademark is unique and not conflicting with existing trademarks.",
+        "Step 2: Prepare & Submit Application - Prepare the application with the necessary documentation and submit it to the Trademark Office.",
+        "Step 3: Examination & Approval - The trademark office will examine the application, and once approved, your trademark will be registered.",
+        "Step 4: Ongoing Protection - Monitor and protect your trademark from any unauthorized use."
+      ],
+      "benefits": [
+        "Exclusive legal rights over your brand name or logo.",
+        "Helps prevent competitors from using your brand identity.",
+        "Enhances brand recognition and customer loyalty."
+      ]
+    },
+    "incorporation": {
+      "name": "Incorporation",
+      "imaget": "assets/images/resources/serv/7.webp",
+
+      "description": "Incorporating your business is the first step toward formalizing your operations and providing limited liability protection to the owners. Our incorporation services assist with the formation of companies such as Private Limited, LLP, and other entities, guiding you through the legal paperwork, registration, and compliance requirements.",
+      "process": "We help you select the most suitable business structure for your company based on your requirements and goals. We take care of all the documentation, registration with government authorities, and ensure that your company complies with local corporate laws.",
+      "key_steps": [
+        "Step 1: Choose Business Structure - Decide whether to establish a Private Limited Company, Limited Liability Partnership (LLP), or another structure based on your goals.",
+        "Step 2: Complete Documentation - Gather the necessary documents, including proof of identity, address, and business-related paperwork.",
+        "Step 3: Submit Registration - Submit the registration forms to the relevant authorities and obtain your company’s legal recognition.",
+        "Step 4: Compliance & Ongoing Support - Ensure compliance with ongoing company maintenance requirements, such as annual filings and audits."
+      ],
+      "benefits": [
+        "Provides legal structure and limited liability protection.",
+        "Ensures compliance with local corporate laws.",
+        "Helps your business gain credibility and investor confidence."
+      ]
+    },
+    "msme_registration": {
+      "name": "MSME Registration",
+      "imaget": "assets/images/resources/serv/8.webp",
+
+      "description": "Micro, Small, and Medium Enterprises (MSMEs) play a significant role in the economic development of a country. MSME registration provides benefits such as government schemes, tax advantages, and access to loans and subsidies. Our MSME registration service ensures that your business qualifies for MSME status and receives the necessary support.",
+      "process": "We help you understand the eligibility criteria for MSME registration, assist with documentation preparation, and submit your application. With MSME registration, your business can unlock several growth opportunities and gain access to a host of government benefits and incentives.",
+      "key_steps": [
+        "Step 1: Check Eligibility - Verify whether your business qualifies as a micro, small, or medium enterprise based on turnover and investment.",
+        "Step 2: Prepare Documents - Gather the necessary documents such as business financials, tax registration, and other business-related paperwork.",
+        "Step 3: Submit Application - Complete the MSME application and submit it to the concerned authority for approval.",
+        "Step 4: Utilize Benefits - Once registered, you can access various government benefits, including easier credit, tax exemptions, and more."
+      ],
+      "benefits": [
+        "Access to government subsidies, schemes, and financial support.",
+        "Eligibility for various tax exemptions and benefits.",
+        "Credibility boost for your business in the market."
+      ]
+    },
+    "firm_registration": {
+      "name": "Firm Registration",
+      "imaget": "assets/images/resources/serv/9.webp",
+
+      "description": "Firm registration is crucial for businesses operating as partnerships or sole proprietorships. It helps establish a legal identity for your business, allowing you to conduct operations smoothly. Our firm registration service ensures that your firm complies with Indian partnership laws and is recognized by the government.",
+      "process": "We help businesses understand the legal formalities required for firm registration, assist with documentation, and guide them through the entire registration process. Once registered, your firm will have the legal recognition it needs to start its operations and be protected under partnership laws.",
+      "key_steps": [
+        "Step 1: Select Firm Type - Choose the type of firm (e.g., sole proprietorship, partnership) based on your business needs.",
+        "Step 2: Prepare Documents - Gather documents such as ID proof, address proof, and partnership deed.",
+        "Step 3: Submit Registration - Submit the firm registration application to the Registrar of Firms for approval.",
+        "Step 4: Legal Protection - Once approved, the firm will have legal recognition and be protected by partnership laws."
+      ],
+      "benefits": [
+        "Legal recognition of your business.",
+        "Access to various legal rights and protections under partnership law.",
+        "Greater credibility with customers and stakeholders."
+      ]
+    },
+    "iec_code": {
+      "name": "IEC Code",
+      "imaget": "assets/images/resources/serv/10.webp",
+
+      "description": "An Import Export Code (IEC) is mandatory for any business involved in importing or exporting goods and services. This unique code is issued by the Directorate General of Foreign Trade (DGFT) and is required for clearing customs and dealing with foreign trade transactions. Our IEC Code registration service makes the process hassle-free and efficient.",
+      "process": "We help you navigate the process of applying for an IEC Code, ensuring that all required documents are prepared, the application is submitted correctly, and your business is ready for international trade operations.",
+      "key_steps": [
+        "Step 1: Prepare Documents - Gather documents such as proof of identity, address, and business registration.",
+        "Step 2: Apply for IEC - Submit your IEC application to the DGFT along with necessary supporting documents.",
+        "Step 3: Receive IEC - Upon approval, your IEC will be issued, allowing you to legally engage in international trade."
+      ],
+      "benefits": [
+        "Required for conducting import and export activities.",
+        "Opens up international market opportunities for your business.",
+        "Ensures compliance with foreign trade regulations."
+      ]
+    }
+  }
+}

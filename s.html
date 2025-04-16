@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - MR. License</title>
+</head>
+<body>
+    <header>
+        <h1>Our Services</h1>
+        <p>Explore the range of licenses and services we offer to help your business stay compliant and grow.</p>
+    </header>
+    <main>
+        <section class="services-list">
+            <!-- Services List Will Be Populated Here Dynamically -->
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 MR. License. All rights reserved.</p>
+    </footer>
+
+       <script>
+    // Fetch the JSON data
+    fetch('license.json')
+        .then(response => response.json())
+        .then(servicesData => {
+            // Log the servicesData to check the structure
+            
+            // Check if servicesData.services is an object
+            if (typeof servicesData.services === 'object') {
+                const servicesList = document.querySelector('.services-list');
+                
+                // Loop through each service key (like food_license, labour_license)
+                Object.keys(servicesData.services).forEach(serviceKey => {
+                    const service = servicesData.services[serviceKey];
+
+                    // Create a card for each service
+                    const serviceCard = document.createElement('div');
+                    serviceCard.classList.add('service-card');
+                    
+                    serviceCard.innerHTML = `
+                        <h2>${service.name}</h2>
+                        <p>${service.description}</p>
+                        <a href="s1.html?service=${serviceKey}" class="details-link">Learn More</a>
+                    `;
+                    servicesList.appendChild(serviceCard);
+                });
+            } else {
+                console.error('Invalid data format: services is not an object');
+            }
+        })
+        .catch(error => {
+            console.error('Error fetching the services data:', error);
+        });
+</script>
+
+    
+</body>
+</html>
